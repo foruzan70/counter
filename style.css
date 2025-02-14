@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.btn{
+    color: #fff;
+    background-color: rgb(78, 212, 168);
+    border-radius: 5px;
+    padding: 10px 7px;
+    font-size: 1.5em;
+    margin: 0 3px;
+}
+#btn-container{
+    text-align: center;
+}
+#my-h1{
+    text-align: center;
+    font-size: 3em;
+}
